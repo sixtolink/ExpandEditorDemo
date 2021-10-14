@@ -1,0 +1,16 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.TestSlate.cpp.obj": [
+			"File.cpp.obj",
+			"FileParsing.cpp.obj",
+			"Folder.cpp.obj",
+			"TestSlate.cpp.obj",
+			"TestSlateCommands.cpp.obj",
+			"TestSlateStyle.cpp.obj",
+			"PreviewViewport.cpp.obj",
+			"ViewportClient.cpp.obj",
+			"ViewType.cpp.obj"
+		]
+	}
+}

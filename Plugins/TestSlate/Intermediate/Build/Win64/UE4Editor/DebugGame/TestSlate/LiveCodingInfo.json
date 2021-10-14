@@ -1,0 +1,10 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.TestSlate.cpp.obj": [
+			"TestSlate.cpp.obj",
+			"TestSlateCommands.cpp.obj",
+			"TestSlateStyle.cpp.obj"
+		]
+	}
+}

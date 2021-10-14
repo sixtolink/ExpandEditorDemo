@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-TestSlate-0001.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\UEProject\AssetsLibrary\Intermediate\Build\Win64\AssetsLibraryEditor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h.obj"
+"D:\UEProject\AssetsLibrary\Plugins\TestSlate\Intermediate\Build\Win64\UE4Editor\Development\TestSlate\Module.TestSlate.cpp.obj"
+"D:\UEProject\AssetsLibrary\Plugins\TestSlate\Intermediate\Build\Win64\UE4Editor\Development\TestSlate\Default.rc2.res"
+/OUT:"D:\UEProject\AssetsLibrary\Plugins\TestSlate\Intermediate\Build\Win64\UE4Editor\Development\TestSlate\UE4Editor-TestSlate-0001.lib"
+/INCLUDE:IMPLEMENT_MODULE_TestSlate
